@@ -3,7 +3,7 @@ title:               Artificial intelligence
 tagline:             'Freedom Project'
 description:         ''
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             '/freedom-project'
 paginate:            5
 permalink:           pretty
 
